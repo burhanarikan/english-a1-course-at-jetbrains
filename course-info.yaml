@@ -1,0 +1,10 @@
+title: Basic English for Beginners — A1
+language: English
+summary: |
+  A complete beginner (A1) English course delivered inside your IDE!
+  Learn the alphabet, greetings, and numbers through short Python exercises.
+  No prior English or programming experience required.
+programming_language: Python
+content:
+  - lesson1-alphabet
+yaml_version: 5

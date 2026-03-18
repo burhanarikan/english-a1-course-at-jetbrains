@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectCodeStyleConfiguration">
+    <code_scheme name="Project" version="173">
+      <option name="RIGHT_MARGIN" value="79" />
+      <PyCodeStyleSettings>
+        <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
+      </PyCodeStyleSettings>
+      <codeStyleSettings language="Python">
+        <option name="INDENT_SIZE" value="4" />
+        <option name="CONTINUATION_INDENT_SIZE" value="8" />
+        <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
+        <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+      </codeStyleSettings>
+    </code_scheme>
+  </component>
+</project>
