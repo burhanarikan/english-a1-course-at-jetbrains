@@ -14,7 +14,7 @@ Students practice English by writing short Python programs — learning a new la
 - No prior English knowledge required
 - No prior programming knowledge required
 
-## Course Structure
+## Course Structure (Lesson 1: Basics)
 
 | # | Task | Type | Topic |
 |---|------|------|-------|

@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Good night!
+    is_correct: false
+  - text: See you later!
+    is_correct: false
+  - text: Good morning!
+    is_correct: true
+  - text: Bye bye!
+    is_correct: false
+message_correct: Correct! 'Good morning' is the right greeting before noon.
+message_incorrect: Think about the time of day!
+files:
+  - name: task.md
+    visible: true
+local_check: true

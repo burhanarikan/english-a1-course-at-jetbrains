@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Twelve
+    is_correct: true
+  - text: Fourty
+    is_correct: false
+  - text: Fifteen
+    is_correct: true
+  - text: Twentyone
+    is_correct: false
+message_correct: Well done! 'Twelve' and 'Fifteen' are both correctly spelled English
+  numbers.
+message_incorrect: Some of your selections are incorrect. Check the spelling carefully!
+files:
+  - name: task.md
+    visible: true
+local_check: true
