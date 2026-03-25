@@ -1,8 +1,0 @@
-type: edu
-files:
-  - name: main.py
-    visible: true
-    placeholders:
-      - offset: 164
-        length: 22
-        placeholder_text: "# TODO: print the three lines"
